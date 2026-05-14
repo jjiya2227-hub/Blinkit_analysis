@@ -29,8 +29,8 @@
 
 ​#  Tools Used
 
-Power BI: For data visualization and dashboarding.
-​DAX: For calculating custom measures and KPIs.
+Power BI: For data visualization and dashboarding.<br>
+DAX: For calculating custom measures and KPIs.<br>
 ​Power Query: For data cleaning and transformation.
 
 <img width="934" height="538" alt="Blinkit dashboard" src="https://github.com/user-attachments/assets/bf0dc7f6-a7b4-46af-b9c8-257ee08f0bb3" />
