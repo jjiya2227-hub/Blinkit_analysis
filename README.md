@@ -1,24 +1,24 @@
-#Blinkit Sales & Inventory Analysis
+# Blinkit Sales & Inventory Analysis
 
-​#Project Overview
+​# Project Overview
 
 ​This project provides a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and optimization opportunities using various KPIs and advanced visualizations in Power BI.  
 
-​#Business Requirements
+​# Business Requirements
 
 ​The analysis is structured to meet specific business objectives:
 ​Sales Performance: Tracking total revenue and average revenue per sale.  
 ​Inventory Distribution: Evaluating the count of different items sold and how fat content impacts sales.  
 ​Customer Satisfaction: Measuring performance through average customer ratings.  
 
-​#Key Performance Indicators (KPIs)
+​# Key Performance Indicators (KPIs)
 
 ​Total Sales: Overall revenue generated from all items.  
 ​Average Sales: Average revenue per transaction.  
 ​Number of Items: Total count of unique items sold.  
 ​Average Rating: Mean customer rating for the products sold.  
 
-​#Granular Analysis & Visualizations
+​# Granular Analysis & Visualizations
 
 ​The dashboard includes the following detailed views:
 ​Sales by Fat Content: Analyzes the impact of low-fat vs. regular products on revenue.  
@@ -27,7 +27,7 @@
 ​Outlet Size & Location: A geographic and structural breakdown of sales across different regions and store sizes.  
 ​Outlet Type Breakdown: A comprehensive view of all KPIs (Sales, Rating, Items) segmented by outlet type.  
 
-​#  Tools Used
+​# Tools Used
 
 Power BI: For data visualization and dashboarding.<br>
 DAX: For calculating custom measures and KPIs.<br>
